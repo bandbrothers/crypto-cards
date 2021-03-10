@@ -28,6 +28,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.4.0",
     "@babel/preset-env": "^7.4.1",
     "@babel/preset-typescript": "^7.3.3",
+    "@openzeppelin/contracts": "^3.4.1",
     "@types/jasmine": "2.8.7",
     "@types/node": "7.0.0",
     "awesome-typescript-loader": "5.2.0",
@@ -48,6 +49,7 @@
   },
   "dependencies": {
     "@types/gl-matrix": "^3.2.0",
-    "gl-matrix": "^3.3.0"
+    "gl-matrix": "^3.3.0",
+    "truffle": "^5.2.3"
   }
 }
